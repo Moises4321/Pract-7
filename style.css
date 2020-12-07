@@ -1,0 +1,14 @@
+ul.circulo{
+
+    list-style-type: circle;
+}
+
+ol.romana{
+
+    list-style-type: upper-roman;
+}
+
+ol.letras{
+
+    list-style-type: lower-alpha;
+}
